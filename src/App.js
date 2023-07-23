@@ -70,7 +70,7 @@ import './App.css';
       <div className="container my-3">
         {/* <Alert alertText = 'This is alert'/> */}
           {/* <Route exact path="/Textform"> */}
-          <About />
+          
           <TextForm heading='Enter the text ' changeMode={mode} showAlert={showAlert} />
           {/* </Route> */}
           {/* <Routes> */}
